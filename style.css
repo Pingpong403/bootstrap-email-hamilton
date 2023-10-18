@@ -1,0 +1,27 @@
+#bs-navbar {
+    background-color: white;
+}
+
+.hamburger-menu {
+    font-size: 1.7rem;
+}
+
+.logo img {
+    width: 40px;
+}
+
+.searchbar input {
+    width: 100%;
+}
+
+.profile img {
+    width: 20px;
+}
+
+#emails {
+    padding-top: 57px;
+}
+
+.mail {
+    background-color: blue;
+}
